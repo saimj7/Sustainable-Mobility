@@ -14,9 +14,10 @@
 
 ---
 
-***In this Readme, we only concentrate on installing the QSS library, required to size and analyze the Conventional (ICU), Electric vehicle powertrains!***
+***For now, we only concentrate on installing the QSS library, required to size and analyze the Conventional (ICU), Electric vehicle powertrains!***
 
 > Dig deeper into the repositories to simulate different powertrains
+
 > Understand fuel consumption and energy efficiency
 
 [![The QSS Library for Simulink:](https://i.imgur.com/hLJtirD.jpeg)]()
